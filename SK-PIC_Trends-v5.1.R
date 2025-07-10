@@ -356,9 +356,9 @@ tab_1 <- fecal_summary %>%
       columns = matches("PIC_tier")
     )
   )
-tab_1 |> gtsave(filename = "tab_1.html", inline_css = FALSE)
+#tab_1 |> gtsave(filename = "tab_1.html", inline_css = FALSE)
 #tab_1 |> gtsave("tab_1.png", expand = 10) not printing full table??
-tab_1
+#tab_1
 
 
 # Create box plot for fecal_coliform grouped by stream and year with log scale on y-axis
