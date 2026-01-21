@@ -1,0 +1,8 @@
+[2026-01-10 16:31:31] Loaded Input Files. Activities: 1534 Results: 15542
+[2026-01-10 16:31:31] PASSED: Pre-flight integrity checks (Project & MonLocs exist).
+[2026-01-10 16:31:31] IDEMPOTENCY CHECK: 0 Activities already exist and were dropped.
+[2026-01-10 16:31:31] READY TO LOAD: 1534 Activities and 15542 Results.
+[2026-01-10 16:31:31] Staged 1534 rows into Activity Table.
+[2026-01-10 16:32:00] Staged 15542 rows into Result Table.
+[2026-01-10 16:32:00] SUCCESS: Transaction Committed. Data is live in TWQD.
+[2026-01-10 16:32:45] Connection Closed. Process Complete.
